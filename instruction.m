@@ -1,4 +1,4 @@
-function instruction(task_type,search_type,target_key_side)
+function instruction(task_presentation,task_type,target_key_side)
 
 global win0 win2 winclear
 
